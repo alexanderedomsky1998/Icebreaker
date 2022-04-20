@@ -1,0 +1,57 @@
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.exe
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.deps.json
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.runtimeconfig.json
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.runtimeconfig.dev.json
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.dll
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\ref\icebreaker__x64d.dll
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\icebreaker__x64d.pdb
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\UnigineSharp_x64d.pdb
+D:\Projects\Games\Examples\Unigine\icebreaker_\bin\UnigineSharp_x64d.xml
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.csproj.AssemblyReference.cache
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.AssemblyInfoInputs.cache
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.AssemblyInfo.cs
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.csproj.CoreCompileInputs.cache
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.csproj.CopyComplete
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker__x64d.dll
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\ref\icebreaker__x64d.dll
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker__x64d.pdb
+D:\Projects\Games\Examples\Unigine\icebreaker_\obj\Debug\icebreaker_.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.exe
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.deps.json
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.runtimeconfig.json
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\ref\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.pdb
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\UnigineSharp_x64d.pdb
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\UnigineSharp_x64d.xml
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csproj.CopyComplete
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\ref\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker__x64d.pdb
+C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\obj\Debug\icebreaker_.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.exe
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.deps.json
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.runtimeconfig.json
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\ref\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\icebreaker__x64d.pdb
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\UnigineSharp_x64d.pdb
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\bin\UnigineSharp_x64d.xml
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.csproj.CopyComplete
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\ref\icebreaker__x64d.dll
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker__x64d.pdb
+C:\Users\Alex\Desktop\Скрины суперкомпьютеры\icebreaker_\icebreaker_\obj\Debug\icebreaker_.genruntimeconfig.cache

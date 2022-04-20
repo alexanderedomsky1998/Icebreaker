@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>ce23a759409ce8e4c7759ef3c077d7b6d33d6b9d</guid>
+	<type>material</type>
+	<hash>ebafa304</hash>
+	<runtimes>
+		<runtime id="ce23a759409ce8e4c7759ef3c077d7b6d33d6b9d" name="wood_osb" link="0" type="5"/>
+	</runtimes>
+</asset>

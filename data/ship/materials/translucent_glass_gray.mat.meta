@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>613dafefef011c82998b31f95fbab304f7a1a293</guid>
+	<type>material</type>
+	<hash>b79a2372</hash>
+	<runtimes>
+		<runtime id="613dafefef011c82998b31f95fbab304f7a1a293" name="translucent_glass_gray" link="0" type="5"/>
+	</runtimes>
+</asset>

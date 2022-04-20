@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="SimpleDestruction" guid="c424b3d26173c109281a56d43f11d4234247ab26" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="_typeDestruction" type="int">0</parameter>
+	<parameter name="_countPieces" type="int">5</parameter>
+	<parameter name="_disableGravity" type="toggle">0</parameter>
+</property>

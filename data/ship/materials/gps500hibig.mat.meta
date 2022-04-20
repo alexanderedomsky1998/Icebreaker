@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>3e43ad9750c7ee0a3e6805e16d07e5cc5c50e6bb</guid>
+	<type>material</type>
+	<hash>b72d5bb4</hash>
+	<runtimes>
+		<runtime id="3e43ad9750c7ee0a3e6805e16d07e5cc5c50e6bb" name="gps500hibig" link="0" type="5"/>
+	</runtimes>
+</asset>

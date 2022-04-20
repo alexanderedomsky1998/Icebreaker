@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>f2fab6d1526a81fc8d3df52b0976888e47ba7695</guid>
+	<type>material</type>
+	<hash>601651a1</hash>
+	<runtimes>
+		<runtime id="f2fab6d1526a81fc8d3df52b0976888e47ba7695" name="_dimgray_" link="0" type="5"/>
+	</runtimes>
+</asset>

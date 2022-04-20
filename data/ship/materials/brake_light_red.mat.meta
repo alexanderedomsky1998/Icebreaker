@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>816b21f1ceeeb29c4af42d4bc134222e283103b5</guid>
+	<type>material</type>
+	<hash>81400e41</hash>
+	<runtimes>
+		<runtime id="816b21f1ceeeb29c4af42d4bc134222e283103b5" name="brake_light_red" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>1fd8fc87f840903aa6d762512074377c9b8d2cab</guid>
+	<type>material</type>
+	<hash>d1bd4c63</hash>
+	<runtimes>
+		<runtime id="1fd8fc87f840903aa6d762512074377c9b8d2cab" name="floralwhite_translucent" link="0" type="5"/>
+	</runtimes>
+</asset>

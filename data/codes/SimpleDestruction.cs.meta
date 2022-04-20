@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>0eb290fc49e0b82b826c6f8ef5413195820cd5f0</guid>
+	<type>component</type>
+	<hash>2acaeebb</hash>
+	<runtimes>
+		<runtime id="0eb290fc49e0b82b826c6f8ef5413195820cd5f0" name="SimpleDestruction.cs" link="0"/>
+		<runtime id="c424b3d26173c109281a56d43f11d4234247ab26" name="SimpleDestruction.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

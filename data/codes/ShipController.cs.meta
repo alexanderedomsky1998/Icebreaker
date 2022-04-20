@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>f6b9b67a947bd391c62d77bc1bceefeb877bc44e</guid>
+	<type>component</type>
+	<hash>f3ce16f5</hash>
+	<runtimes>
+		<runtime id="f6b9b67a947bd391c62d77bc1bceefeb877bc44e" name="ShipController.cs" link="0"/>
+		<runtime id="52c97c60dd98843f2c05c492f74e1ac987b36594" name="ShipController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

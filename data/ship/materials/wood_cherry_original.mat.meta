@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>fd06db473b155ffa202c6f116b9a5d3c4f47976b</guid>
+	<type>material</type>
+	<hash>a0591d36</hash>
+	<runtimes>
+		<runtime id="fd06db473b155ffa202c6f116b9a5d3c4f47976b" name="wood_cherry_original" link="0" type="5"/>
+	</runtimes>
+</asset>

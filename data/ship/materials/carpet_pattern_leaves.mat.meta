@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>6f1e753175756cdc9e41228b9914166e3421eaf5</guid>
+	<type>material</type>
+	<hash>b48fc387</hash>
+	<runtimes>
+		<runtime id="6f1e753175756cdc9e41228b9914166e3421eaf5" name="carpet_pattern_leaves" link="0" type="5"/>
+	</runtimes>
+</asset>

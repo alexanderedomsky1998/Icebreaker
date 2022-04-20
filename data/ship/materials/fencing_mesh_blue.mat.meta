@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>301df6ddb9e58a98ab278d1776e7478a69289161</guid>
+	<type>material</type>
+	<hash>f7fa9b28</hash>
+	<runtimes>
+		<runtime id="301df6ddb9e58a98ab278d1776e7478a69289161" name="fencing_mesh_blue" link="0" type="5"/>
+	</runtimes>
+</asset>

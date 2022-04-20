@@ -1,0 +1,450 @@
+
+---- Engine ----
+Version: 2.15.1.0 ver-2.15.1.0-8f0649f Mar 10 2022
+Binary: Windows 64-bit Visual C++ 1900 Release
+Engine features: Direct3D11 OpenAL Microprofile XPad360 Joystick FloatCoords HalfTexCoords Development
+
+---- Configs ----
+Loading boot config "C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/configs/default.boot"...
+Loading user config "C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/configs/default.user"...
+Using config file "configs/default.config"
+Using boot config file "configs/default.boot"
+Using user config file "configs/default.user"
+Using controls config file "configs/default.controls"
+
+---- Engine Microprofile ----
+MicroProfile: Web server started on port 1337
+
+---- GPU Detection ----
+GPU 0 Active: Intel(R) HD Graphics 520 4154 MB
+GPU 1		: Microsoft Basic Render Driver 4026 MB
+
+---- System ----
+OS:		Windows 10 (build 18363) 64-bit
+
+CPU:	Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+		Frequency: 2399MHz
+		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+		Cores:2 Threads:4
+
+		System memory: 8053 MB
+		Sync threads:  3
+		Async threads: 2
+
+GPU:	Intel(R) HD Graphics 520
+		Video memory:  4154 MB
+
+
+---- Plugins ----
+Loading "FbxImporter_x64.dll"...
+Loading "GLTFImporter_x64.dll"...
+Loading "FbxExporter_x64.dll"...
+Plugins initialization: 162ms
+
+
+---- Application ----
+Loading "dxgi.dll"...
+Loading "openal32.dll"...
+Application initialization: 1739ms
+
+
+
+---- Render ----
+Renderer: Intel 4154MB
+Renderer API: Direct3D 11.0
+Maximum texture size:    16384
+Maximum texture units:   16
+
+---- Filesystem ----
+App path:  C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/bin/
+Data path: C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/
+Save path: C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/bin/
+
+Runtimes loaded: 0 16ms
+Filesystem initialization: 4221ms
+
+---- Sound ----
+Renderer: OpenAL Soft on Динамики (Conexant SmartAudio HD)
+OpenAL vendor:   OpenAL Community
+OpenAL renderer: OpenAL Soft
+OpenAL version:  1.1 ALSOFT 1.19.1
+Found AL_EXT_LINEAR_DISTANCE
+Found AL_EXT_OFFSET
+Found ALC_EXT_EFX
+Found ALC_SOFT_HRTF
+Found EFX Filter
+Found EFX Reverb
+Found EAX Reverb
+Found QUAD16 format
+Found 51CHN16 format
+Found 61CHN16 format
+Found 71CHN16 format
+Device enumeration supported
+Maximum sources:         256
+Maximum effect slots:    16
+Maximum auxiliary sends: 2
+Output sampling frequency: 48000hz
+HRTF not enabled!
+
+---- Physics ----
+
+---- PathFind ----
+
+Loading controls "C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/configs/default.controls"...
+Loading "xinput1_4.dll"...
+Loading config "C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/configs/default.config"...
+
+---- Materials ----
+Engine base materials loaded: 174 / 174 (673ms)
+Engine materials loaded:      65 / 65 (40ms)
+User materials loaded:        85 / 93 (120ms)
+Total materials: 324
+
+
+---- Properties ----
+Properties loaded:            4 / 4 (3ms)
+
+Processor registered "DefaultProcessor".
+Importer registered "FbxImporter".
+Processor registered "MergeStaticMeshes".
+Processor registered "MergeSimilarMaterials".
+Processor registered "MergeSurfacesByMaterials".
+Processor registered "CombineByPostfixes".
+Processor registered "SplitByBound".
+Processor registered "Repivot".
+Processor registered "CreateUV".
+Processor registered "CloseAnimation".
+Processor registered "MeshOptimizer".
+Importer registered "GLTFImporter".
+Exporter registered "FbxExporter".
+Engine initialization: 8293ms
+
+
+Script loading "editor2/editor.usc" 133ms
+---- Editor ----
+Version: 2.15.1.0 ver-2.15.1.0-8f0649f Mar 10 2022
+Binary: Windows MSVC 19.0.24215.1 
+
+ERROR:	"AssetManager:: The meta file is corrupted. The asset will be reimported (Path = C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/PhysicalShipController.prop.meta)"
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_red_alb.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/metal_texture_sh.png (1.0MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_0_sh.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_0_n.png (3.0KB): import started...
+ERROR:	"ImportPropertyStage: Property import error. (filepath: C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/PhysicalShipController.prop)"
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_red_alb.png: import finished in 4.967599 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_gray_alb.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_0_sh.png: import finished in 4.435772 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_green_alb.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/metal_texture_sh.png: import finished in 4.639947 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_orange_alb.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_0_n.png: import finished in 4.272039 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/wall_alb.png (2.3KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_gray_alb.png: import finished in 49.150000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_a.png (2.7MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/wall_alb.png: import finished in 34.045000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_alb.png (10.3MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_green_alb.png: import finished in 152.875000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_n.png (8.5MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/textures/floor_orange_alb.png: import finished in 250.507000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_sh.png (8.7MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_a.png: import finished in 2.875640 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cone_n.png (209.0KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_n.png: import finished in 3.433712 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cube_n.png (20.6KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cylinder_n.png (77.7KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cone_n.png: import finished in 2.763175 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cube_n.png: import finished in 14.686020 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/textures/cylinder_n.png: import finished in 14.631341 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_sh.png: import finished in 18.027735 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/textures/material_ball_alb.png: import finished in 18.269580 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/stairs_0.fbx (20.8KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/stairs_0.fbx: import finished in 75.653000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/plane.fbx (17.1KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/plane.fbx: import finished in 66.501000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/ramp_0.fbx (18.7KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/ramp_0.fbx: import finished in 62.726000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/ramp_1.fbx (18.7KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/ramp_1.fbx: import finished in 71.735000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/template_buildings.fbx (57.7KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/template_buildings.fbx: import finished in 1.196148 seconds
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/wall_0.fbx (17.1KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/buildings_constructor/fbx/wall_0.fbx: import finished in 77.083000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cone.fbx (22.1KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cone.fbx: import finished in 75.221000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cube.fbx (18.1KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cube.fbx: import finished in 70.446000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cylinder.fbx (19.5KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/cylinder.fbx: import finished in 70.491000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/sphere.fbx (52.9KB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/primitives/fbx/sphere.fbx: import finished in 90.217000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/fbx/material_ball.fbx (1.3MB): import started...
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/csharp_template/template_props/material_ball/fbx/material_ball.fbx: import finished in 687.662000 ms
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx (5.1MB): import started...
+ERROR:	Importer::importTexture: can't import texture "Fencing_Mesh_Blue.png" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Wood_Cherry_Original.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_Color_009_1.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_7.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "g1000_cc3_1_.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "gps500hibig.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Metal_Corrogated_Shiny.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_Wood_Cherry_Original_1.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Carpet_Plush_Charcoal.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_8.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Carpet_Pattern_Leaves.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_CorrogateShiny_.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_CorrogateShiny_1.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_CorrogateShiny_2.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Metal_Aluminum_Anodized.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_2.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_4.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_3.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Sketchy_Lines_Wavy_45_A.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Metal_Aluminum_Anodized1_.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Wood_OSB.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Carpet_Low_Smoke.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "_Wavy_Lines_45deg_B_.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Metal_Panel.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Carpet_Ltblue.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Translucent_Glass_Gold.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+ERROR:	Importer::importTexture: can't import texture "Metal_Seamed.jpg" in "asset://C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx".
+C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/data/ship/untitled.fbx: import finished in 2.608602 seconds
+.NET SDKs 5.0.102 found
+C# Component System initialized successfully
+Microsoft (R) Build Engine версии 16.8.3+39993bd9d для .NET
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+Определение проектов для восстановления...
+Восстановлен C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\icebreaker_.csproj (за 201 ms).
+WARNING:	C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\data\codes\BaseController.cs(39,13): warning CS0162: Обнаружен недостижимый код [C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\icebreaker_.csproj]
+icebreaker_ -> C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+CSPropertyGenerator started
+Modified properties:
+0) SimpleDestruction (.runtimes/c4/c424b3d26173c109281a56d43f11d4234247ab26.prop)
+1) ShipController (.runtimes/52/52c97c60dd98843f2c05c492f74e1ac987b36594.prop)
+2) BaseController (.runtimes/ab/ab6d46a3610b7ba6d07e5ecd6ea471c87ca66a87.prop)
+3) PhysicalShipController (.runtimes/ab/ab6d46a3610b7ba6c07e5ecd6ea471c87ca66a87.prop)
+4) FirstPersonController (.runtimes/7a/7abd3d1dd6399bd8498bed57e699aacada031ba1.prop)
+CSPropertyGenerator completed successfully in 7,09 seconds
+Сборка успешно завершена.
+WARNING:	C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\data\codes\BaseController.cs(39,13): warning CS0162: Обнаружен недостижимый код [C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\icebreaker_.csproj]
+Предупреждений: 1
+Ошибок: 0
+Прошло времени 00:00:19.63
+[Build Tool] Project file is found ( "C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/icebreaker_.project" ).
+[Build Tool] The SDK path ( "D:/Soft/Unigine SDK Browser/sdks/community_windows_2.15.1/bin/" ) doesn't exist.
+[Build Tool] The SDK path ( "D:/Soft/Unigine SDK Browser/sdks/community_windows_2.15.1/bin/" ) doesn't exist.
+Editor.PluginSystem: Plugin search paths:  QVector("C:/Users/Alex/Desktop/Скрины для Чуватова/icebreaker_/icebreaker_/bin/editor")
+---- Interpreter ----
+Version: 2.90
+
+Unigine~# config_autosave 1 && world_load "icebreaker_"
+Script loading "core/unigine.usc" 54ms
+Loading "core/locale/unigine.locale" dictionary 1ms
+World loading "icebreaker_.world" 403ms
+
+---- Load cache textures ----
+Cache textures loaded 418 (505ms)
+
+Reloading ".runtimes/17/17fbfb8c6b20817b45af889e0e35d76571da2180.mesh" mesh
+Reloading ".runtimes/62/6251a407c69e11ba08aff5d1cab8b4fccc888c2b.mesh" mesh
+Reloading ".runtimes/74/7431b7aae1bd03014d53806cf96380db2136c07e.mesh" mesh
+Reloading ".runtimes/98/9802276da9e561e8d1bf5c2721ad2b5a2d4a02f1.mesh" mesh
+Reloading ".runtimes/b1/b16fed1dff6c8bd81cc21d57e77a1aca4208cba1.mesh" mesh
+Reloading ".runtimes/f4/f49e1865080b6e80fd8a8fdf5e921bb2f5454769.mesh" mesh
+Reloading ".runtimes/13/13c13655873193b046fb934f769de862de9ccc59.mesh" mesh
+Reloading ".runtimes/96/96b89b5d9dcae518765c2597a1d6060a51af3de1.mesh" mesh
+Reloading ".runtimes/0d/0d6abf6a2478e7c1e4c29e2cd7a2839bca42643e.mesh" mesh
+Reloading ".runtimes/6e/6e10090b18eccaeeaa8e15759a9fa850236a5f6f.mesh" mesh
+Reloading ".runtimes/ad/adac1bcf5877d6e27634e8d90f163c64c263dc73.mesh" mesh
+Reloading ".runtimes/e0/e0a18b04956a9a9364ca5ed63f65083d83cdac78.mesh" mesh
+Reloading ".runtimes/98/9802276da9e561e8d1bf5c2721ad2b5a2d4a02f1.mesh" mesh
+Reloading ".runtimes/ad/adac1bcf5877d6e27634e8d90f163c64c263dc73.mesh" mesh
+Reloading ".runtimes/e0/e0a18b04956a9a9364ca5ed63f65083d83cdac78.mesh" mesh
+Reloading ".runtimes/17/17fbfb8c6b20817b45af889e0e35d76571da2180.mesh" mesh
+Reloading ".runtimes/b1/b16fed1dff6c8bd81cc21d57e77a1aca4208cba1.mesh" mesh
+Reloading ".runtimes/f4/f49e1865080b6e80fd8a8fdf5e921bb2f5454769.mesh" mesh
+Reloading ".runtimes/62/6251a407c69e11ba08aff5d1cab8b4fccc888c2b.mesh" mesh
+Reloading ".runtimes/74/7431b7aae1bd03014d53806cf96380db2136c07e.mesh" mesh
+Reloading ".runtimes/13/13c13655873193b046fb934f769de862de9ccc59.mesh" mesh
+Reloading ".runtimes/96/96b89b5d9dcae518765c2597a1d6060a51af3de1.mesh" mesh
+Reloading ".runtimes/0d/0d6abf6a2478e7c1e4c29e2cd7a2839bca42643e.mesh" mesh
+Reloading ".runtimes/6e/6e10090b18eccaeeaa8e15759a9fa850236a5f6f.mesh" mesh
+Microsoft (R) Build Engine версии 16.8.3+39993bd9d для .NET
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+icebreaker_ -> C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+CSPropertyGenerator started
+CSPropertyGenerator completed successfully in 6,07 seconds
+Сборка успешно завершена.
+Предупреждений: 0
+Ошибок: 0
+Прошло времени 00:00:09.16
+Microsoft (R) Build Engine версии 16.8.3+39993bd9d для .NET
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+icebreaker_ -> C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+CSPropertyGenerator started
+CSPropertyGenerator completed successfully in 5,37 seconds
+Сборка успешно завершена.
+Предупреждений: 0
+Ошибок: 0
+Прошло времени 00:00:08.09
+Microsoft (R) Build Engine версии 16.8.3+39993bd9d для .NET
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+icebreaker_ -> C:\Users\Alex\Desktop\Скрины для Чуватова\icebreaker_\icebreaker_\bin\icebreaker__x64d.dll
+CSPropertyGenerator started
+CSPropertyGenerator completed successfully in 5,57 seconds
+Сборка успешно завершена.
+Предупреждений: 0
+Ошибок: 0
+Прошло времени 00:00:08.49
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+ERROR:	ObjectWaterGlobal::getLayerName: wave layers mode only.
+ERROR:	ObjectWaterGlobal::isLayerEnabled: wave layers mode only.
+Exporter unregistered "FbxExporter".
+Importer unregistered "GLTFImporter".
+Processor unregistered "MergeStaticMeshes".
+Processor unregistered "MergeSurfacesByMaterials".
+Processor unregistered "CombineByPostfixes".
+Processor unregistered "CreateUV".
+Processor unregistered "CloseAnimation".
+Importer unregistered "FbxImporter".
+Processor unregistered "MergeSimilarMaterials".
+Processor unregistered "SplitByBound".
+Processor unregistered "Repivot".
+Close "openal32.dll"
+ERROR:	D3D11RenderContext::destroyContext(): 8243 unreleased references
+Total RAM:           412.0 MB
+- system RAM used:   397.0 MB
+- pool RAM reserved: 15.1 MB
+- pool RAM used:     3.9 MB
+Total allocs:        218801
+- system allocs:     45364
+- 16b pool allocs:   138244
+- 32b pool allocs:   10588
+- 64b pool allocs:   24605
+
+
+Shutdown

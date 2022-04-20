@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeDummy" id="1930033368" name="untitled">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1509876453" name="fisher.005">
+			<mesh_name>guid://f49e1865080b6e80fd8a8fdf5e921bb2f5454769</mesh_name>
+			<surface name="_Gray_Glass_" material="c380d32b1d4fce8eb1a70495404a8cf0f7cfbb8f"/>
+			<surface name="Fencing_Mesh_Blue" material="301df6ddb9e58a98ab278d1776e7478a69289161"/>
+			<surface name="_CoolGray6_" material="3b418f9f64839872a8fd1d2983e8c474dcdb2543"/>
+			<surface name="Brake_Light_Red" material="816b21f1ceeeb29c4af42d4bc134222e283103b5"/>
+			<surface name="_WhiteSmoke_" material="18763653e22fc7964007d9fde764d338c92dfd37"/>
+			<surface name="_Charcoal_" material="cf417945b0d099e05b3603bfc1523e12e2194649"/>
+			<surface name="Wood_Cherry_Original" material="fd06db473b155ffa202c6f116b9a5d3c4f47976b"/>
+			<surface name="Color_009" material="c3acb0d93fdb6464b256e47339195f368aee4d1d"/>
+			<surface name="_Color_009_1" material="0097d27b5004a59e5316506532764680cf0787df"/>
+			<surface name="_Gray6_" material="b1c6bcaddf987628e028e3671e2c899af38f4c31"/>
+			<surface name="Translucent_Glass_Gray" material="613dafefef011c82998b31f95fbab304f7a1a293"/>
+			<surface name="Color_A01" material="c70bd0c1700e732cee5a549b97de013e8641b785"/>
+			<surface name="_7" material="527147a38da588a6ba7f07cd150306c82bd1fb87"/>
+			<surface name="g1000_cc3_1_" material="3cee6115ca453f704b29cc0fa2534a22e7854319"/>
+			<surface name="gps500hibig" material="3e43ad9750c7ee0a3e6805e16d07e5cc5c50e6bb"/>
+			<surface name="Metal_Corrogated_Shiny" material="7eab21a92409fef4f25a1dc35ae92846af27e2ed"/>
+			<surface name="FrontColor" material="0cd235cbe55d90ae4ad2a0359a2334102c86f82f"/>
+			<surface name="_Wood_Cherry_Original_1" material="775d067dfef315b828665db739d79faaad99cb01"/>
+			<surface name="Color_007" material="45fa743fee9ef49292358ac98c141594758103e3"/>
+			<surface name="Carpet_Plush_Charcoal" material="7c51439186a427bc5bf5dfebbd15f44e71816f55"/>
+			<surface name="Color_008" material="214e3cf30d6bddb68c05b99dc102ee587b241dd7"/>
+			<surface name="Color_002" material="879b4ce5825219000190385f487eaa32018f83e9"/>
+			<surface name="Color_A1" material="d847a3e7c4ef501a690a60b125c5625c67a19a0b"/>
+			<surface name="_8" material="b6e8d6793d870d847d913b133f338556fe92fcbd"/>
+			<surface name="_Color_006_1" material="cebcfd1bc0838fbe77f0f405296255a0e12b0c7f"/>
+			<surface name="Fig30" material="4295d44d0c266948705cfc079a4189baa1cd0dd1"/>
+			<surface name="M_0136_Charcoal" material="6594dc8f3ed620a2ee21279967d5ec24cde64933"/>
+			<surface name="M_0020_Red" material="61007a614db0d04cf8d3cf3b8084fb5e4b852b25"/>
+			<surface name="M_0128_White" material="8bba1643a64bc6c648d0ef6d901589e89a216427"/>
+			<surface name="M_0130_Gainsboro" material="ca1d3cb513c82690c10648afa3cd5e4295dd08b9"/>
+			<surface name="_Black_" material="614fbe3786a4862aba587f816953d2ec94c6b15b"/>
+			<surface name="M_0137_Black" material="cf4acf49cff39014e9293c63674176661fe49a8d"/>
+			<surface name="Color_005" material="8125286b8bdfa2ce57c64bd51b84ab303610c4cf"/>
+			<surface name="Color_D01" material="3b66261daca370d824c9be57130347ca84ee14a1"/>
+			<surface name="Color_003" material="c469e8df265fa0b2fab308691f2136b4647e7283"/>
+			<surface name="Carpet_Pattern_Leaves" material="6f1e753175756cdc9e41228b9914166e3421eaf5"/>
+			<surface name="M_0044_DarkGoldenrod" material="94a1d393ec4e43d60b55a93d782bd9780c06ce77"/>
+			<surface name="_Khaki_" material="6d89308532b868207468fcffaf7866521c52d189"/>
+			<surface name="FloralWhite_Translucent" material="1fd8fc87f840903aa6d762512074377c9b8d2cab"/>
+			<surface name="_White_" material="ccf60c19dc3086a4e68f21b3439bfb766011bc5d"/>
+			<surface name="_Silver_" material="0317b7bbc91ac9ded5e7a7a5c51b34c03c95211f"/>
+			<surface name="_DarkGray_" material="c002fbedc71b2c6882a9a4a78af5d9da8601df71"/>
+			<surface name="_CorrogateShiny_" material="3f16992f673474c2c7902d393b56f544d9367fd3"/>
+			<surface name="_Ivory_" material="aaf03401b372fd6ce9cad9db34ec457ed96caec5"/>
+			<surface name="_Charcoal_1" material="8b3274e3d2bc54e64448e70d5076dd0844515cc7"/>
+			<surface name="_Gray_" material="f93428559c73ddb0fed5554f81f8c262ef15de59"/>
+			<surface name="_LightGray_" material="5aa05ed7ff5c6e4acd4c0921d927900c18020bfb"/>
+			<surface name="M_0011_Seashell" material="274f8ce9b05ef134936feb03440c1486824f622d"/>
+			<surface name="_Glass_Blue_Tint_" material="27e1ab0be11e04ee1c2a077523f6f2501e55216f"/>
+			<surface name="_DarkGray_1" material="34e155bd137e9bf8e739aef70c323fea1e4d6e41"/>
+			<surface name="_DarkGoldenrod_" material="da77ed7f4e8d9cd2f69d9609331827d4583b7123"/>
+			<surface name="_DimGray_" material="f2fab6d1526a81fc8d3df52b0976888e47ba7695"/>
+			<surface name="_LimeGreen_" material="5ad8fa33bc1ef9f68a9fa8dd61679498f6be0f17"/>
+			<surface name="_Crimson_" material="e2b32425a78b87408ba8519f5d0772721a8b2f29"/>
+			<surface name="_CorrogateShiny_1" material="a8a2e52714d1205ac6bb73f156aedc9cda724f4b"/>
+			<surface name="_CorrogateShiny_2" material="97fc51b977dfcfc4c9b89853e79ac19690128bfd"/>
+			<surface name="_1" material="0710025b341253fe62a26b456f28e3e06d2dc5bf"/>
+			<surface name="_Charcoal_2" material="d4b6338daafebf881ff6dd47d41179fae155c111"/>
+			<surface name="Metal_Aluminum_Anodized" material="13aae5cfc4e418e28c0042d9fa45ce64e9fa4673"/>
+			<surface name="_Red_" material="d002fda1c25cfa8c9ea7747b635bdf9eb9a04265"/>
+			<surface name="_Glass_Gold_Tint_" material="db4263838a3f33066b8eeeadf4af00286749e567"/>
+			<surface name="Ivory_Translucent" material="5ddb23f5d3d064d0de7ef1efbd9d76822d57c3f9"/>
+			<surface name="Color_E05" material="411d8f7754b7a66af66aa2c1218b1d2c376af69b"/>
+			<surface name="Color_E02" material="eae15a89cb5422546f9629a3cc9102a6a91039cd"/>
+			<surface name="_Color_D01_1" material="4c6fbdab2960b70ebfa5d315a7020970733c0e0f"/>
+			<surface name="_43" material="8076955d980c9718ba9e2f97632c880a4cdfd7e1"/>
+			<surface name="_2" material="300c821f5df0e8f2be1d33a99200e8f4c31fffc3"/>
+			<surface name="_4" material="450e0871288b671ce85457cb36854aae67f31235"/>
+			<surface name="_3" material="205bb0d3ae2600163a8bb87de53e1fb8ba31dfb7"/>
+			<surface name="Sketchy_Lines_Wavy_45_A" material="2cc127c55a537660a336363f6bf3ce9208609cc9"/>
+			<surface name="Metal_Aluminum_Anodized1_" material="4b8d5dc78e69007a59de9591177d51bc57b901eb"/>
+			<surface name="Wood_OSB" material="ce23a759409ce8e4c7759ef3c077d7b6d33d6b9d"/>
+			<surface name="Carpet_Low_Smoke" material="880ddcfb3fb22e1ef7c93ee52513630082dcfa5f"/>
+			<surface name="_Wavy_Lines_45deg_B_" material="8f577b2d665922a8552ca5e78d5c6a1a98f0b2b1"/>
+			<surface name="_DarkRed_" material="8d39c26f68ad0d02c599687998aa778494999d13"/>
+			<surface name="Metal_Panel" material="9f60d741ef76c7ac38d19f1b2e1bc9be59c7e605"/>
+			<surface name="Carpet_Ltblue" material="ca51e223381c6126e14b064d2f45f34843f2fe07"/>
+			<surface name="Dark_Olive" material="6fba2f95bd65bbf0bdeb1e8f8b837aa2aecab999"/>
+			<surface name="_Color_000_1" material="2faf5017547e2e8a58dc4c61fb867a4c8869713b"/>
+			<surface name="Translucent_Glass_Gold" material="a2283829fadb2374c003f843d01840c6cacf216d"/>
+			<surface name="M_0101_CornflowerBlue" material="7e37604b1cefb92e4de1aeb52c2df09046ad8aaf"/>
+			<surface name="Translucent_Glass_Green_Dark" material="9ecde4fdb2d56238eddf403789ba202a87cd5181"/>
+			<surface name="Translucent_Glass_Red" material="f10fa6bfff518512ad59e149d9e37a14db941e63"/>
+			<surface name="Metal_Seamed" material="46806a1156e01c3cb2ec4a6bbc885cce3473bdd5"/>
+			<surface name="_Gray6_1" material="5591f773e7ab5636afc1d81d80377ad8d94a4057"/>
+			<transform>1.1044023 1.254879e-21 1.5729978e-14 0.0 1.2470072e-21 1.1044023 -1.7992997e-07 0.0 -1.5729978e-14 1.7992997e-07 1.1044023 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

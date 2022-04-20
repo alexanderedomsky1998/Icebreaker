@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>5ddb23f5d3d064d0de7ef1efbd9d76822d57c3f9</guid>
+	<type>material</type>
+	<hash>d9f84494</hash>
+	<runtimes>
+		<runtime id="5ddb23f5d3d064d0de7ef1efbd9d76822d57c3f9" name="ivory_translucent" link="0" type="5"/>
+	</runtimes>
+</asset>

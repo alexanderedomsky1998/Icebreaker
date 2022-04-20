@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>b4ff71e55425fa000df8a55f2a3a333291ab78e9</guid>
+	<type>component</type>
+	<hash>201a672c</hash>
+	<runtimes>
+		<runtime id="b4ff71e55425fa000df8a55f2a3a333291ab78e9" name="PhysicalShipController.cs" link="0"/>
+		<runtime id="ab6d46a3610b7ba6c07e5ecd6ea471c87ca66a87" name="PhysicalShipController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UnigineSharp_x64d/1.0.0": {
+        "runtime": {
+          "UnigineSharp_x64d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnigineSharp_x64d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

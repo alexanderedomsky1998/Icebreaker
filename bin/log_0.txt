@@ -1,0 +1,90 @@
+
+---- Engine ----
+Version: 2.15.1.0 ver-2.15.1.0-8f0649f Mar 10 2022
+Binary: Windows 64-bit Visual C++ 1900 Debug
+Engine features: Direct3D11 OpenAL XPad360 Joystick FloatCoords HalfTexCoords Debug
+
+---- Configs ----
+Loading boot config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.boot"...
+Loading user config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.user"...
+Using config file "configs/default.config"
+Using boot config file "configs/default.boot"
+Using user config file "configs/default.user"
+Using controls config file "configs/default.controls"
+
+---- GPU Detection ----
+GPU 0 Active: GPU Unknown 0 MB
+
+---- System ----
+OS:		Windows 10 (build 18363) 64-bit
+
+CPU:	Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+		Frequency: 2398MHz
+		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+		Cores:2 Threads:4
+
+		System memory: 8053 MB
+		Sync threads:  3
+		Async threads: 2
+
+GPU:	GPU Unknown
+		Video memory:  0 MB
+
+
+---- Plugins ----
+Plugins initialization: 0ms
+
+
+---- Application ----
+Application initialization: 2216ms
+
+
+
+---- Render ----
+NULL
+
+---- Filesystem ----
+App path:  C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/bin/
+Data path: C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/
+Save path: C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/bin/
+
+Runtimes loaded: 50 44ms
+Filesystem initialization: 3194ms
+
+---- Sound ----
+NULL
+
+---- Physics ----
+
+---- PathFind ----
+
+Loading controls "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.controls"...
+Loading "xinput1_4.dll"...
+Loading config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.config"...
+
+---- Materials ----
+Engine base materials loaded: 174 / 174 (1813ms)
+Engine materials loaded:      65 / 65 (97ms)
+User base materials loaded:   5 / 5 (456ms)
+User materials loaded:        93 / 93 (615ms)
+Total materials: 337
+
+
+---- Properties ----
+Properties loaded:            10 / 10 (24ms)
+
+Engine initialization: 7352ms
+
+
+Total RAM:           9.0 MB
+- system RAM used:   3.2 MB
+- pool RAM reserved: 5.8 MB
+- pool RAM used:     2.2 MB
+Total allocs:        144985
+- system allocs:     8994
+- 16b pool allocs:   131875
+- 32b pool allocs:   1201
+- 64b pool allocs:   2915
+
+
+Shutdown

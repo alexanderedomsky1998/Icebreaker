@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>7eab21a92409fef4f25a1dc35ae92846af27e2ed</guid>
+	<type>material</type>
+	<hash>95fca831</hash>
+	<runtimes>
+		<runtime id="7eab21a92409fef4f25a1dc35ae92846af27e2ed" name="metal_corrogated_shiny" link="0" type="5"/>
+	</runtimes>
+</asset>

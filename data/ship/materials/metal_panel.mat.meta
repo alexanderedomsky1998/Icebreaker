@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>9f60d741ef76c7ac38d19f1b2e1bc9be59c7e605</guid>
+	<type>material</type>
+	<hash>c1579dba</hash>
+	<runtimes>
+		<runtime id="9f60d741ef76c7ac38d19f1b2e1bc9be59c7e605" name="metal_panel" link="0" type="5"/>
+	</runtimes>
+</asset>

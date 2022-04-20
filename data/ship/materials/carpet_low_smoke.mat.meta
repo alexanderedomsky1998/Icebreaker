@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>880ddcfb3fb22e1ef7c93ee52513630082dcfa5f</guid>
+	<type>material</type>
+	<hash>ea8720dd</hash>
+	<runtimes>
+		<runtime id="880ddcfb3fb22e1ef7c93ee52513630082dcfa5f" name="carpet_low_smoke" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>c002fbedc71b2c6882a9a4a78af5d9da8601df71</guid>
+	<type>material</type>
+	<hash>b016da9c</hash>
+	<runtimes>
+		<runtime id="c002fbedc71b2c6882a9a4a78af5d9da8601df71" name="_darkgray_" link="0" type="5"/>
+	</runtimes>
+</asset>

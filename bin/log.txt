@@ -1,0 +1,1185 @@
+
+---- Engine ----
+Version: 2.15.1.0 ver-2.15.1.0-8f0649f Mar 10 2022
+Binary: Windows 64-bit Visual C++ 1900 Debug
+Engine features: Direct3D11 OpenAL XPad360 Joystick FloatCoords HalfTexCoords Debug
+
+---- Configs ----
+Loading boot config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.boot"...
+Loading user config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.user"...
+Using config file "configs/default.config"
+Using boot config file "configs/default.boot"
+Using user config file "configs/default.user"
+Using controls config file "configs/default.controls"
+
+---- GPU Detection ----
+GPU 0 Active: Intel(R) HD Graphics 520 4154 MB
+GPU 1		: Microsoft Basic Render Driver 4026 MB
+
+---- System ----
+OS:		Windows 10 (build 18363) 64-bit
+
+CPU:	Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+		Frequency: 2399MHz
+		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+		Cores:2 Threads:4
+
+		System memory: 8053 MB
+		Sync threads:  3
+		Async threads: 2
+
+GPU:	Intel(R) HD Graphics 520
+		Video memory:  4154 MB
+
+
+---- Plugins ----
+Plugins initialization: 2ms
+
+
+---- Application ----
+Loading "dxgi.dll"...
+Loading "openal32.dll"...
+Set 860x560 fullwindow video mode
+Application initialization: 1539ms
+
+
+
+---- Render ----
+Renderer: Intel 4154MB
+Renderer API: Direct3D 11.0
+Maximum texture size:    16384
+Maximum texture units:   16
+
+---- Filesystem ----
+App path:  C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/bin/
+Data path: C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/
+Save path: C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/bin/
+
+Runtimes loaded: 50 17ms
+Filesystem initialization: 2612ms
+
+---- Sound ----
+Renderer: OpenAL Soft on Динамики (Conexant SmartAudio HD)
+OpenAL vendor:   OpenAL Community
+OpenAL renderer: OpenAL Soft
+OpenAL version:  1.1 ALSOFT 1.19.1
+Found AL_EXT_LINEAR_DISTANCE
+Found AL_EXT_OFFSET
+Found ALC_EXT_EFX
+Found ALC_SOFT_HRTF
+Found EFX Filter
+Found EFX Reverb
+Found EAX Reverb
+Found QUAD16 format
+Found 51CHN16 format
+Found 61CHN16 format
+Found 71CHN16 format
+Device enumeration supported
+Maximum sources:         256
+Maximum effect slots:    16
+Maximum auxiliary sends: 2
+Output sampling frequency: 48000hz
+HRTF not enabled!
+
+---- Physics ----
+
+---- PathFind ----
+
+Loading controls "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.controls"...
+Loading "xinput1_4.dll"...
+Loading config "C:/Users/Alex/Desktop/Скрины суперкомпьютеры/icebreaker_/icebreaker_/data/configs/default.config"...
+
+---- Materials ----
+Engine base materials loaded: 174 / 174 (674ms)
+Engine materials loaded:      65 / 65 (46ms)
+User base materials loaded:   5 / 5 (193ms)
+User materials loaded:        93 / 93 (157ms)
+Total materials: 337
+
+
+---- Properties ----
+Properties loaded:            10 / 10 (18ms)
+
+Set 1600x900 windowed video mode
+Engine initialization: 4632ms
+
+
+---- Interpreter ----
+Version: 2.90
+
+Unigine~# world_load "icebreaker_"
+Script loading "core/unigine.usc" 22ms
+World loading "icebreaker_.world" 740ms
+
+---- Load cache textures ----
+Cache textures loaded 765 (715ms)
+
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -0,59374, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -1,344008, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -1,753796, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -2,456132, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -2,884336, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -3,446644, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -4,01648, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -4,57646, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -5,1350117, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -5,6928196, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -6,2590795, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -6,8332157, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -7,4080195, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -7,9753156, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -8,54612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: -1, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -9,103412, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: -8,513612, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -7,9244, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -7,3217, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -6,733436, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -6,143792, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -5,5542283, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -4,9693522, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -4,381524, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -3,7957, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -3,209388, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -2,622692, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -2,0337682, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -1,4496322, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -0,86142814, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: -0,27077615, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 0,31341183, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 0,8958078, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 1,4787078, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 1,4787078, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 2,0577638, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 2,6396878, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 3,2270718, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 3,8210518, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 4,4114876, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 5,0032635, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 5,5963674, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 6,1823554, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 6,7717075, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 7,364156, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 7,95294, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 8,536968, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 9,131504, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 9,725496, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 1, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 10, newMaxSpeed: 10, ListIces.Count: 0
+InputSpeed: 0, MotorForwardSpeed: 9,928058, newMaxSpeed: 10, ListIces.Count: 1
+InputSpeed: 0, MotorForwardSpeed: 9,856115, newMaxSpeed: 10, ListIces.Count: 2
+InputSpeed: 0, MotorForwardSpeed: 9,712231, newMaxSpeed: 10, ListIces.Count: 4
+InputSpeed: 0, MotorForwardSpeed: 9,424461, newMaxSpeed: 10, ListIces.Count: 8
+InputSpeed: 0, MotorForwardSpeed: 9,208634, newMaxSpeed: 10, ListIces.Count: 11
+InputSpeed: 0, MotorForwardSpeed: 8,920865, newMaxSpeed: 10, ListIces.Count: 15
+InputSpeed: 0, MotorForwardSpeed: 8,848923, newMaxSpeed: 10, ListIces.Count: 16
+InputSpeed: 0, MotorForwardSpeed: 8,633096, newMaxSpeed: 10, ListIces.Count: 19
+InputSpeed: 0, MotorForwardSpeed: 8,345326, newMaxSpeed: 10, ListIces.Count: 23
+InputSpeed: 0, MotorForwardSpeed: 7,9136724, newMaxSpeed: 10, ListIces.Count: 29
+InputSpeed: 0, MotorForwardSpeed: 7,4820185, newMaxSpeed: 10, ListIces.Count: 35
+InputSpeed: 0, MotorForwardSpeed: 7,2661915, newMaxSpeed: 10, ListIces.Count: 38
+InputSpeed: 0, MotorForwardSpeed: 6,978422, newMaxSpeed: 10, ListIces.Count: 42
+InputSpeed: 0, MotorForwardSpeed: 6,6187105, newMaxSpeed: 10, ListIces.Count: 47
+InputSpeed: 0, MotorForwardSpeed: 6,474826, newMaxSpeed: 10, ListIces.Count: 49
+InputSpeed: 0, MotorForwardSpeed: 6,258999, newMaxSpeed: 10, ListIces.Count: 52
+InputSpeed: 0, MotorForwardSpeed: 6,043172, newMaxSpeed: 10, ListIces.Count: 55
+InputSpeed: 0, MotorForwardSpeed: 5,827345, newMaxSpeed: 10, ListIces.Count: 58
+InputSpeed: 0, MotorForwardSpeed: 5,611518, newMaxSpeed: 10, ListIces.Count: 61
+InputSpeed: 0, MotorForwardSpeed: 5,4676332, newMaxSpeed: 10, ListIces.Count: 63
+InputSpeed: 0, MotorForwardSpeed: 5,395691, newMaxSpeed: 10, ListIces.Count: 64
+InputSpeed: 0, MotorForwardSpeed: 5,2518063, newMaxSpeed: 10, ListIces.Count: 66
+InputSpeed: 0, MotorForwardSpeed: 5,1079216, newMaxSpeed: 10, ListIces.Count: 68
+InputSpeed: 0, MotorForwardSpeed: 4,6762676, newMaxSpeed: 10, ListIces.Count: 74
+InputSpeed: 0, MotorForwardSpeed: 4,6043253, newMaxSpeed: 10, ListIces.Count: 75
+InputSpeed: 0, MotorForwardSpeed: 4,316556, newMaxSpeed: 10, ListIces.Count: 79
+InputSpeed: 0, MotorForwardSpeed: 4,2446136, newMaxSpeed: 10, ListIces.Count: 80
+InputSpeed: 0, MotorForwardSpeed: 4,0287867, newMaxSpeed: 10, ListIces.Count: 83
+InputSpeed: 0, MotorForwardSpeed: 4,0287867, newMaxSpeed: 10, ListIces.Count: 83
+InputSpeed: 0, MotorForwardSpeed: 3,9568443, newMaxSpeed: 10, ListIces.Count: 84
+InputSpeed: 0, MotorForwardSpeed: 3,884902, newMaxSpeed: 10, ListIces.Count: 85
+InputSpeed: 0, MotorForwardSpeed: 3,7410173, newMaxSpeed: 10, ListIces.Count: 87
+InputSpeed: 0, MotorForwardSpeed: 3,669075, newMaxSpeed: 10, ListIces.Count: 88
+InputSpeed: 0, MotorForwardSpeed: 3,5251904, newMaxSpeed: 10, ListIces.Count: 90
+InputSpeed: 0, MotorForwardSpeed: 3,3813057, newMaxSpeed: 10, ListIces.Count: 92
+InputSpeed: 0, MotorForwardSpeed: 3,237421, newMaxSpeed: 10, ListIces.Count: 94
+InputSpeed: 0, MotorForwardSpeed: 3,237421, newMaxSpeed: 10, ListIces.Count: 94
+InputSpeed: 0, MotorForwardSpeed: 3,237421, newMaxSpeed: 10, ListIces.Count: 94
+InputSpeed: 0, MotorForwardSpeed: 3,1654787, newMaxSpeed: 10, ListIces.Count: 95
+InputSpeed: 0, MotorForwardSpeed: 3,021594, newMaxSpeed: 10, ListIces.Count: 97
+InputSpeed: 0, MotorForwardSpeed: 3,021594, newMaxSpeed: 10, ListIces.Count: 97
+InputSpeed: 0, MotorForwardSpeed: 3,021594, newMaxSpeed: 10, ListIces.Count: 97
+InputSpeed: 0, MotorForwardSpeed: 3,021594, newMaxSpeed: 10, ListIces.Count: 97
+InputSpeed: 0, MotorForwardSpeed: 2,8777094, newMaxSpeed: 10, ListIces.Count: 99
+InputSpeed: 0, MotorForwardSpeed: 2,8777094, newMaxSpeed: 10, ListIces.Count: 99
+InputSpeed: 0, MotorForwardSpeed: 2,805767, newMaxSpeed: 10, ListIces.Count: 100
+InputSpeed: 0, MotorForwardSpeed: 2,6618824, newMaxSpeed: 10, ListIces.Count: 102
+InputSpeed: 0, MotorForwardSpeed: 2,58994, newMaxSpeed: 10, ListIces.Count: 103
+InputSpeed: 0, MotorForwardSpeed: 2,374113, newMaxSpeed: 10, ListIces.Count: 106
+InputSpeed: 0, MotorForwardSpeed: 2,374113, newMaxSpeed: 10, ListIces.Count: 106
+InputSpeed: 0, MotorForwardSpeed: 2,3021708, newMaxSpeed: 10, ListIces.Count: 107
+InputSpeed: 0, MotorForwardSpeed: 2,3021708, newMaxSpeed: 10, ListIces.Count: 107
+InputSpeed: 0, MotorForwardSpeed: 2,3021708, newMaxSpeed: 10, ListIces.Count: 107
+InputSpeed: 0, MotorForwardSpeed: 2,3021708, newMaxSpeed: 10, ListIces.Count: 107
+InputSpeed: 0, MotorForwardSpeed: 2,2302284, newMaxSpeed: 10, ListIces.Count: 108
+InputSpeed: 0, MotorForwardSpeed: 2,2302284, newMaxSpeed: 10, ListIces.Count: 108
+InputSpeed: 0, MotorForwardSpeed: 2,158286, newMaxSpeed: 10, ListIces.Count: 109
+InputSpeed: 0, MotorForwardSpeed: 1,8705165, newMaxSpeed: 10, ListIces.Count: 113
+InputSpeed: 0, MotorForwardSpeed: 1,7266316, newMaxSpeed: 10, ListIces.Count: 115
+InputSpeed: 0, MotorForwardSpeed: 1,7266316, newMaxSpeed: 10, ListIces.Count: 115
+InputSpeed: 0, MotorForwardSpeed: 1,5108043, newMaxSpeed: 10, ListIces.Count: 118
+InputSpeed: 0, MotorForwardSpeed: 1,4388618, newMaxSpeed: 10, ListIces.Count: 119
+InputSpeed: 0, MotorForwardSpeed: 1,4388618, newMaxSpeed: 10, ListIces.Count: 119
+InputSpeed: 0, MotorForwardSpeed: 1,4388618, newMaxSpeed: 10, ListIces.Count: 119
+InputSpeed: 0, MotorForwardSpeed: 1,4388618, newMaxSpeed: 10, ListIces.Count: 119
+InputSpeed: 0, MotorForwardSpeed: 1,4388618, newMaxSpeed: 10, ListIces.Count: 119
+InputSpeed: 0, MotorForwardSpeed: 1,3669194, newMaxSpeed: 10, ListIces.Count: 120
+InputSpeed: 0, MotorForwardSpeed: 1,3669194, newMaxSpeed: 10, ListIces.Count: 120
+InputSpeed: 0, MotorForwardSpeed: 1,3669194, newMaxSpeed: 10, ListIces.Count: 120
+InputSpeed: 0, MotorForwardSpeed: 1,294977, newMaxSpeed: 10, ListIces.Count: 121
+InputSpeed: 0, MotorForwardSpeed: 1,294977, newMaxSpeed: 10, ListIces.Count: 121
+InputSpeed: 0, MotorForwardSpeed: 1,2230345, newMaxSpeed: 10, ListIces.Count: 122
+InputSpeed: 0, MotorForwardSpeed: 1,2230345, newMaxSpeed: 10, ListIces.Count: 122
+InputSpeed: 0, MotorForwardSpeed: 1,2230345, newMaxSpeed: 10, ListIces.Count: 122
+InputSpeed: 0, MotorForwardSpeed: 1,151092, newMaxSpeed: 10, ListIces.Count: 123
+InputSpeed: 0, MotorForwardSpeed: 1,151092, newMaxSpeed: 10, ListIces.Count: 123
+InputSpeed: 1, MotorForwardSpeed: 1,722272, newMaxSpeed: 10, ListIces.Count: 123
+InputSpeed: 1, MotorForwardSpeed: 2,269124, newMaxSpeed: 10, ListIces.Count: 123
+InputSpeed: 1, MotorForwardSpeed: 2,6816792, newMaxSpeed: 10, ListIces.Count: 125
+InputSpeed: 1, MotorForwardSpeed: 3,0878305, newMaxSpeed: 10, ListIces.Count: 127
+InputSpeed: 0, MotorForwardSpeed: 3,0158882, newMaxSpeed: 10, ListIces.Count: 128
+InputSpeed: 0, MotorForwardSpeed: 2,943946, newMaxSpeed: 10, ListIces.Count: 129
+InputSpeed: 0, MotorForwardSpeed: 2,943946, newMaxSpeed: 10, ListIces.Count: 129
+InputSpeed: 0, MotorForwardSpeed: 2,8000612, newMaxSpeed: 10, ListIces.Count: 131
+InputSpeed: 0, MotorForwardSpeed: 2,8000612, newMaxSpeed: 10, ListIces.Count: 131
+InputSpeed: 0, MotorForwardSpeed: 2,8000612, newMaxSpeed: 10, ListIces.Count: 131
+InputSpeed: 0, MotorForwardSpeed: 2,6561766, newMaxSpeed: 10, ListIces.Count: 133
+InputSpeed: 0, MotorForwardSpeed: 2,5842342, newMaxSpeed: 10, ListIces.Count: 134
+InputSpeed: 0, MotorForwardSpeed: 2,5842342, newMaxSpeed: 10, ListIces.Count: 134
+InputSpeed: 0, MotorForwardSpeed: 2,512292, newMaxSpeed: 10, ListIces.Count: 135
+InputSpeed: 0, MotorForwardSpeed: 2,512292, newMaxSpeed: 10, ListIces.Count: 135
+InputSpeed: 0, MotorForwardSpeed: 2,512292, newMaxSpeed: 10, ListIces.Count: 135
+InputSpeed: 0, MotorForwardSpeed: 2,296465, newMaxSpeed: 10, ListIces.Count: 138
+InputSpeed: 0, MotorForwardSpeed: 2,1525803, newMaxSpeed: 10, ListIces.Count: 140
+InputSpeed: 0, MotorForwardSpeed: 2,080638, newMaxSpeed: 10, ListIces.Count: 141
+InputSpeed: 0, MotorForwardSpeed: 1,8648107, newMaxSpeed: 10, ListIces.Count: 144
+InputSpeed: 0, MotorForwardSpeed: 1,7928683, newMaxSpeed: 10, ListIces.Count: 145
+InputSpeed: 0, MotorForwardSpeed: 1,7928683, newMaxSpeed: 10, ListIces.Count: 145
+InputSpeed: 0, MotorForwardSpeed: 1,7928683, newMaxSpeed: 10, ListIces.Count: 145
+InputSpeed: 0, MotorForwardSpeed: 1,7928683, newMaxSpeed: 10, ListIces.Count: 145
+InputSpeed: 0, MotorForwardSpeed: 1,7928683, newMaxSpeed: 10, ListIces.Count: 145
+InputSpeed: 0, MotorForwardSpeed: 1,7209258, newMaxSpeed: 10, ListIces.Count: 146
+InputSpeed: 0, MotorForwardSpeed: 1,6489834, newMaxSpeed: 10, ListIces.Count: 147
+InputSpeed: 0, MotorForwardSpeed: 1,6489834, newMaxSpeed: 10, ListIces.Count: 147
+InputSpeed: 0, MotorForwardSpeed: 1,5770409, newMaxSpeed: 10, ListIces.Count: 148
+InputSpeed: 0, MotorForwardSpeed: 1,5050985, newMaxSpeed: 10, ListIces.Count: 149
+InputSpeed: 0, MotorForwardSpeed: 1,5050985, newMaxSpeed: 10, ListIces.Count: 149
+InputSpeed: 0, MotorForwardSpeed: 1,5050985, newMaxSpeed: 10, ListIces.Count: 149
+InputSpeed: 0, MotorForwardSpeed: 1,433156, newMaxSpeed: 10, ListIces.Count: 150
+InputSpeed: 0, MotorForwardSpeed: 1,3612136, newMaxSpeed: 10, ListIces.Count: 151
+InputSpeed: 0, MotorForwardSpeed: 1,3612136, newMaxSpeed: 10, ListIces.Count: 151
+InputSpeed: 0, MotorForwardSpeed: 1,3612136, newMaxSpeed: 10, ListIces.Count: 151
+InputSpeed: 0, MotorForwardSpeed: 1,3612136, newMaxSpeed: 10, ListIces.Count: 151
+InputSpeed: 0, MotorForwardSpeed: 1,2892711, newMaxSpeed: 10, ListIces.Count: 152
+InputSpeed: 0, MotorForwardSpeed: 1,2892711, newMaxSpeed: 10, ListIces.Count: 152
+InputSpeed: 0, MotorForwardSpeed: 1,2892711, newMaxSpeed: 10, ListIces.Count: 152
+InputSpeed: 0, MotorForwardSpeed: 1,2892711, newMaxSpeed: 10, ListIces.Count: 152
+InputSpeed: 0, MotorForwardSpeed: 1,2892711, newMaxSpeed: 10, ListIces.Count: 152
+InputSpeed: 0, MotorForwardSpeed: 1,2173287, newMaxSpeed: 10, ListIces.Count: 153
+InputSpeed: 0, MotorForwardSpeed: 1,2173287, newMaxSpeed: 10, ListIces.Count: 153
+InputSpeed: 0, MotorForwardSpeed: 1,1453862, newMaxSpeed: 10, ListIces.Count: 154
+InputSpeed: 0, MotorForwardSpeed: 1,1453862, newMaxSpeed: 10, ListIces.Count: 154
+InputSpeed: 0, MotorForwardSpeed: 1,1453862, newMaxSpeed: 10, ListIces.Count: 154
+InputSpeed: 0, MotorForwardSpeed: 1,0734438, newMaxSpeed: 10, ListIces.Count: 155
+InputSpeed: 0, MotorForwardSpeed: 1,0734438, newMaxSpeed: 10, ListIces.Count: 155
+InputSpeed: 0, MotorForwardSpeed: 1,0015013, newMaxSpeed: 10, ListIces.Count: 156
+InputSpeed: 0, MotorForwardSpeed: 1,0015013, newMaxSpeed: 10, ListIces.Count: 156
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 157
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 157
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 157
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 157
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 158
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 159
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 160
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 162
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 162
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 162
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 162
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 162
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 164
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 164
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 164
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 164
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 164
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 166
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 167
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 167
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 167
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 168
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 169
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 169
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 171
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 172
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 173
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+InputSpeed: 0, MotorForwardSpeed: 0, newMaxSpeed: 10, ListIces.Count: 174
+Close "openal32.dll"
+ERROR:	D3D11RenderContext::destroyContext(): 6 unreleased references
+Total RAM:           15.3 MB
+- system RAM used:   5.5 MB
+- pool RAM reserved: 9.8 MB
+- pool RAM used:     4.0 MB
+Total allocs:        220734
+- system allocs:     12664
+- 16b pool allocs:   169997
+- 32b pool allocs:   30041
+- 64b pool allocs:   8032
+
+
+Shutdown

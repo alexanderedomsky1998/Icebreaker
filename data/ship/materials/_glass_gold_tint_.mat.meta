@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>db4263838a3f33066b8eeeadf4af00286749e567</guid>
+	<type>material</type>
+	<hash>00611826</hash>
+	<runtimes>
+		<runtime id="db4263838a3f33066b8eeeadf4af00286749e567" name="_glass_gold_tint_" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>143d9406411fdbadb079092851225a67df41949a</guid>
+	<type>world</type>
+	<hash>ed6b9f7e</hash>
+	<runtimes>
+		<runtime id="143d9406411fdbadb079092851225a67df41949a" name="icebreaker_copy.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="render_settings_path">guid://3eaf348f5c3c98a2f8253f99e39b2424233a2133</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="script_name"/>
+		<parameter type="xml" name="viewports"><viewport_list>
+	<1>
+		<flashlight>
+			<enabled>0</enabled>
+			<color>1 1 1 1</color>
+			<intensity>1</intensity>
+			<attenuation>1</attenuation>
+			<radius>300</radius>
+			<fov>160</fov>
+		</flashlight>
+		<speed_presets>
+			<speed_0>19.1000004</speed_0>
+			<speed_1>150.100006</speed_1>
+			<speed_2>500</speed_2>
+			<current_preset>1</current_preset>
+		</speed_presets>
+		<scene_camera>
+			<transform>0.86232304573059082 0.50635862350463867 -1.3306736946105957e-05 0 -0.23165428638458252 0.39452794194221497 0.88920402526855469 0 0.4502614438533783 -0.76677799224853516 0.45751067996025085 0 323.18841552734375 -213.48367309570313 151.88873291015625 1</transform>
+			<fov_mode>0</fov_mode>
+			<fov>60</fov>
+			<focal_length>30</focal_length>
+			<film_gate>35</film_gate>
+			<znear>0.100000001</znear>
+			<zfar>100000</zfar>
+			<viewport_mask>-1</viewport_mask>
+			<reflection_mask>-1</reflection_mask>
+			<source_mask>-1</source_mask>
+			<reverb_mask>-1</reverb_mask>
+			<ortho_enabled>0</ortho_enabled>
+			<ortho_height>16</ortho_height>
+			<projection>1.7320509 0 0 0 0 1.7320509 0 0 0 0 -1.00000203 -1 0 0 -0.200000197 0</projection>
+		</scene_camera>
+		<render_debug>
+			<mode>-1</mode>
+			<ligth_meter_max_intensity>500</ligth_meter_max_intensity>
+		</render_debug>
+		<selected_camera_id>-1</selected_camera_id>
+	</1>
+</viewport_list>
+</parameter>
+	</parameters>
+</asset>

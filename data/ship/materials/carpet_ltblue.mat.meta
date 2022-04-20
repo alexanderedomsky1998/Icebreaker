@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>ca51e223381c6126e14b064d2f45f34843f2fe07</guid>
+	<type>material</type>
+	<hash>dd262996</hash>
+	<runtimes>
+		<runtime id="ca51e223381c6126e14b064d2f45f34843f2fe07" name="carpet_ltblue" link="0" type="5"/>
+	</runtimes>
+</asset>

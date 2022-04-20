@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>27e1ab0be11e04ee1c2a077523f6f2501e55216f</guid>
+	<type>material</type>
+	<hash>7e934fb</hash>
+	<runtimes>
+		<runtime id="27e1ab0be11e04ee1c2a077523f6f2501e55216f" name="_glass_blue_tint_" link="0" type="5"/>
+	</runtimes>
+</asset>

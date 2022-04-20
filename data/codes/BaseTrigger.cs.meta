@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>32f74d45e7845de0e66ef7bf586ea212a2625a49</guid>
+	<type>component</type>
+	<hash>bbb67767</hash>
+	<runtimes>
+		<runtime id="32f74d45e7845de0e66ef7bf586ea212a2625a49" name="BaseTrigger.cs" link="0"/>
+		<runtime id="2ac76a533f076b96e6532dfd90b0173803187137" name="BaseTrigger.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

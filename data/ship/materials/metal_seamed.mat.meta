@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>46806a1156e01c3cb2ec4a6bbc885cce3473bdd5</guid>
+	<type>material</type>
+	<hash>db68f36a</hash>
+	<runtimes>
+		<runtime id="46806a1156e01c3cb2ec4a6bbc885cce3473bdd5" name="metal_seamed" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>60586bbbe11bedde064e7ba5e6cbf8c084a7151f</guid>
+	<type>world</type>
+	<hash>6f023a4d</hash>
+	<runtimes>
+		<runtime id="60586bbbe11bedde064e7ba5e6cbf8c084a7151f" name="icebreaker_.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="render_settings_path">guid://3eaf348f5c3c98a2f8253f99e39b2424233a2133</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="script_name"/>
+		<parameter type="xml" name="viewports"><viewport_list>
+	<1>
+		<flashlight>
+			<enabled>0</enabled>
+			<color>1 1 1 1</color>
+			<intensity>1</intensity>
+			<attenuation>1</attenuation>
+			<radius>300</radius>
+			<fov>160</fov>
+		</flashlight>
+		<speed_presets>
+			<speed_0>19.1000004</speed_0>
+			<speed_1>150.100006</speed_1>
+			<speed_2>500</speed_2>
+			<current_preset>1</current_preset>
+		</speed_presets>
+		<scene_camera>
+			<transform>0.98719644546508789 -0.15950915217399597 -1.6078352928161621e-05 0 0.082705743610858917 0.51177674531936646 0.85512822866439819 0 -0.13639254868030548 -0.8441808819770813 0.51841646432876587 0 240.48129272460938 -187.70881652832031 65.577072143554688 1</transform>
+			<fov_mode>0</fov_mode>
+			<fov>60</fov>
+			<focal_length>30</focal_length>
+			<film_gate>35</film_gate>
+			<znear>0.100000001</znear>
+			<zfar>100000</zfar>
+			<viewport_mask>-1</viewport_mask>
+			<reflection_mask>-1</reflection_mask>
+			<source_mask>-1</source_mask>
+			<reverb_mask>-1</reverb_mask>
+			<ortho_enabled>0</ortho_enabled>
+			<ortho_height>16</ortho_height>
+			<projection>1.7320509 0 0 0 0 1.7320509 0 0 0 0 -1.00000203 -1 0 0 -0.200000197 0</projection>
+		</scene_camera>
+		<render_debug>
+			<mode>-1</mode>
+			<ligth_meter_max_intensity>500</ligth_meter_max_intensity>
+		</render_debug>
+		<selected_camera_id>-1</selected_camera_id>
+	</1>
+</viewport_list>
+</parameter>
+	</parameters>
+</asset>

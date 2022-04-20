@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>6fba2f95bd65bbf0bdeb1e8f8b837aa2aecab999</guid>
+	<type>material</type>
+	<hash>3eaef21</hash>
+	<runtimes>
+		<runtime id="6fba2f95bd65bbf0bdeb1e8f8b837aa2aecab999" name="dark_olive" link="0" type="5"/>
+	</runtimes>
+</asset>
